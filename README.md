@@ -2,6 +2,7 @@
 ### Bem vindo(a) ao meu perfil GitHub!!
 
 Tenho 36 anos, moro em São Paulo/SP, sou formada em Publicidade e Propaganda e apaixonada por tecnologia e design. Comecei a me aventurar no universo da programação a pouco tempo e me descobri fascinada por solucionar problemas. 
+
  <div align="center">
   <a href="https://github.com/tati-mendonca">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tati-mendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
