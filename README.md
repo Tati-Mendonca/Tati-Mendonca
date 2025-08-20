@@ -1,8 +1,7 @@
 ## Olá, me chamo Tatiane Mendonça
 ### Bem vindo(a) ao meu perfil GitHub!!
 
-Tenho 37 anos, moro em São Paulo/SP, sou formada em Publicidade e Propaganda e apaixonada por tecnologia e design. Comecei a me aventurar no universo da programação a pouco tempo e me descobri fascinada por solucionar problemas. 
-
+Estudante de Análise e Desenvolvimento de Sistemas, com formação em Publicidade em transição de carreira para a área de TI. Me encantei pelo universo da programação e sigo aprendendo e evoluindo a cada projeto. Gosto de resolver problemas, criar soluções criativas e tenho interesse especial por áreas como desenvolvimento web, UI/UX e tecnologia voltada à experiência do usuário.
 
  <div align="center">
   <a href="https://github.com/tati-mendonca">
